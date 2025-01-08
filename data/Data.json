@@ -1,0 +1,31 @@
+{
+  "details": {
+    "smdes": "Aspiring Mern Stack Developer with proficiency in  Frontend development  and also familiar with its associated tools , technologies and best practices.",
+    "des": "I am an aspiring Software Engineer currently learning the MERN stack and backend development. I specialize in creating dynamic front-end applications using React, Redux, and Tailwind CSS, and have a strong understanding of building scalable and user-friendly solutions. Additionally, I have a solid grasp of Data Structures and Algorithms, having solved 350-400 problems on platforms like LeetCode and GeeksforGeeks. I am committed to writing clean, efficient code and am actively seeking job opportunities to contribute and grow."
+  },
+  "socials": {
+    "mail": "eshitabhawsar@gmail.com",
+    "insta": "https://www.instagram.com/eshita_6137?igsh=N2xqa2J4cGxxNDho",
+    "git": "https://github.com/esh-dev257",
+    "linkedin": "https://www.linkedin.com/in/eshita-bhawsar-552a82255/"
+  },
+  "socailimgs": {
+    "mail": "https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png",
+    "insta": "https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png",
+    "git": "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png",
+    "linkedin": "https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-256.png"
+  },
+  "tech": {
+    "html": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    "css": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "javascript": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "bootstrap": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+    "tailwind": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+    "git": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
+    "postman": "https://cdn.worldvectorlogo.com/logos/postman.svg",
+    "mongodb": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
+    "express": "https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png",
+    "react": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "nodejs": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+  }
+}
