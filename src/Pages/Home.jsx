@@ -1,27 +1,22 @@
 import React, { useContext, useState, useEffect } from "react";
 import { motion, useTransform, useScroll } from "framer-motion";
 import { Context } from "../App";
-
 const Home = () => {
   const [dark] = useContext(Context);
-
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: { opacity: 1, transition: { staggerChildren: 0.3 } },
   };
-
   const itemVariants = {
     hidden: { opacity: 0, y: 50 },
     visible: { opacity: 1, y: 0 },
   };
-
   const { scrollY } = useScroll();
   const y = useTransform(
     scrollY,
     [0, window.innerHeight],
     [0, -window.innerHeight]
   );
-
   const [text, setText] = useState("");
   const phrases = [
     " A MERN Stack Developer",
@@ -30,10 +25,8 @@ const Home = () => {
   ];
   const [index, setIndex] = useState(0);
   const [phase, setPhase] = useState("typing");
-
   useEffect(() => {
     let charIndex = text.length;
-
     const typeInterval = setInterval(() => {
       if (phase === "typing") {
         if (charIndex < phrases[index].length) {
@@ -54,17 +47,14 @@ const Home = () => {
         }
       }
     }, 100);
-
     if (phase === "pause") {
       const pauseTimeout = setTimeout(() => {
         setPhase("erasing");
       }, 1000);
       return () => clearTimeout(pauseTimeout);
     }
-
     return () => clearInterval(typeInterval);
   }, [text, phase, index, phrases]);
-
   return (
     <motion.div
       id="home"
@@ -81,7 +71,6 @@ const Home = () => {
             : "bg-gradient-to-r from-blue-200 via-purple-200 to-blue-200"
         }`}
       ></motion.div>
-
       {/* Content */}
       <motion.h1
         className={`text-6xl font-bold mb-6 relative z-10 ${
@@ -114,5 +103,4 @@ const Home = () => {
     </motion.div>
   );
 };
-
 export default Home;
