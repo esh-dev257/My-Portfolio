@@ -1,5 +1,13 @@
 [
   {
+    "name": " StudyNotion",
+    "content": "A full-stack EdTech platform  designed to streamline online learning and teaching. It features secure user authentication, role-based access (admin/instructor/student).",
+    "stack": "React, Tailwind, Node , Express , MongoDb , Cloudinary , Razorpay",
+    "files": "https://github.com/esh-dev257/Ed-Tech-Platform",
+    "link": "https://ed-tech-platform-frontend-gamma.vercel.app/",
+    "imgs": "https://ik.imagekit.io/bjl7z3fpd/Screenshot%202025-07-20%20162745.png?updatedAt=1753597532921"
+  },
+  {
     "name": " Dsa Sorting Visualizer",
     "content": "An interactive React tool to visualize and understand sorting algorithms.",
     "stack": "React-J ,Node-js ",
@@ -7,28 +15,13 @@
     "link": "https://dsa-algo-sorting-visualizer.netlify.app/",
     "imgs": "https://i.imgur.com/2voYcWE.png"
   },
+
   {
-    "name": "Text to Speech ",
-    "content": "A React app that converts text into speech using the Web Speech API. Users can input text, select voices, and adjust pitch, speed, and volume.",
-    "stack": "React-J ,Node-js , Web Speech API",
-    "files": "https://github.com/esh-dev257/Text-to-Speech-Converter",
-    "link": "https://test-to-speech-converter-react.netlify.app/",
-    "imgs": "https://i.imgur.com/OAtBqzo.png"
-  },
-  {
-    "name": "Typing-Speed ",
-    "content": "A React app to test typing speed and accuracy.",
-    "stack": "React-J ,Node-js , Tailwind, Firebase ",
-    "files": "https://github.com/esh-dev257/Typing-speed-checker",
-    "link": "https://typingspeed-checker.netlify.app/",
-    "imgs": "https://i.imgur.com/fO3hRwh.png"
-  },
-  {
-    "name": "Google Clone",
-    "content": "Its a Clone of Google Keep made using React-js",
-    "stack": "React-Js,Node.js",
-    "files": "",
-    "link": "https://eshitabhawsar.netlify.app/",
-    "imgs": "https://i.imgur.com/vdsSvGp.png"
+    "name": " MERN E-commerce ",
+    "content": "Developed a full-stack e-commerce platform with user authentication, product browsing, cart, and secure checkout.",
+    "stack": "React-J ,Node-js , MongoDb , Express.js , Google OAuth ",
+    "files": "https://github.com/esh-dev257/mern-e-commerce",
+    "link": "",
+    "imgs": "https://ik.imagekit.io/bjl7z3fpd/Screenshot%202025-07-27%20120135.png?updatedAt=1753597928197"
   }
 ]

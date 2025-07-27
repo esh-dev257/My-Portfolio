@@ -78,7 +78,7 @@ const Contact = () => {
         <div className="my-2 sm:mb-16">
           <Links
             about="Resume"
-            link="https://drive.google.com/file/d/1XTDVkW1Bk3uyTxBq3VIXBu-ux5TYmz46/view?usp=sharing"
+            link="https://drive.google.com/file/d/1wj87Aml1xRrhywM8QuEOX-P8X8gLpRrz/view?usp=sharing"
             style="sm:justify-left container inline-flex"
           />
         </div>
