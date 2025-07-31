@@ -23,5 +23,13 @@
     "files": "https://github.com/esh-dev257/mern-e-commerce",
     "link": "",
     "imgs": "https://ik.imagekit.io/bjl7z3fpd/Screenshot%202025-07-27%20120135.png?updatedAt=1753597928197"
+  },
+  {
+    "name": " Happiness Plans",
+    "content": "Happiness Plans is a sleek travel landing page showcasing premium experiences with smooth animations, image slideshows, and parallax effects.",
+    "stack": "HTML, CSS, JavaScript",
+    "files": "https://github.com/esh-dev257/Happiness-plans-site",
+    "link": "https://happiness-plans-site.netlify.app/",
+    "imgs": "https://ik.imagekit.io/bjl7z3fpd/image.png?updatedAt=1753986822089"
   }
 ]
