@@ -1,5 +1,13 @@
 [
   {
+    "name": " Chatbot AI ",
+    "content": "Chatbot AI platform with secure auth and role-based access, built on React.js + Nhost (Postgres/Auth/Storage) and real-time GraphQL for low-latency conversations.",
+    "stack": "React, CSS, Node , Nhost , GraphQL",
+    "files": "https://github.com/esh-dev257/nhost-chatbot",
+    "link": "https://nhost-dashboard.netlify.app/",
+    "imgs": "https://ik.imagekit.io/bjl7z3fpd/image(1).png?updatedAt=1755965618615"
+  },
+  {
     "name": " StudyNotion",
     "content": "A full-stack EdTech platform  designed to streamline online learning and teaching. It features secure user authentication, role-based access (admin/instructor/student).",
     "stack": "React, Tailwind, Node , Express , MongoDb , Cloudinary , Razorpay",
